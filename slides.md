@@ -12,3 +12,6 @@
 
 ---
 - How to commit changes
+
+--- 
+- Create a new branch
