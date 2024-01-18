@@ -190,5 +190,13 @@ Extra : to add link
 
 commit with "closes #1" at the end of your message
 
+---
+# How to apply a commit
+
+```
+git cherry-pick YOURSHA1
+```
+
+
 --- { "layout" : "center" }
 # Thanks for reading !
