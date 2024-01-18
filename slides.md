@@ -18,3 +18,6 @@
 
 ---
 - Work on a branch
+
+---
+- Merge branch on main
