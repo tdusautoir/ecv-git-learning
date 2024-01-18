@@ -1,19 +1,20 @@
 # Introduction
 
 A slide to learn more about git via spectable
+
 Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
 
 ## Installation
 
 To run the project :
 
-Use the package manager [npm](https://www.npmjs.com/) to run the project locally: 
+Use the package manager [npm](https://www.npmjs.com/) to run the project locally : 
 
 ```bash
 npm start
 ```
 
-to build it staticly: 
+to build it staticly : 
 
 ```bash
 npm build

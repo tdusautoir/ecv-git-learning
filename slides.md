@@ -24,3 +24,6 @@
 
 ---
 - Delete a branch
+
+---
+- Pushing changes to remote
