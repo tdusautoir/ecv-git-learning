@@ -185,5 +185,10 @@ Extra : to add link
 [link](url)
 ```
 
+---
+# How to automate issue closing
+
+commit with "closes #1" at the end of your message
+
 --- { "layout" : "center" }
 # Thanks for reading !
