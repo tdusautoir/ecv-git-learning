@@ -1,15 +1,24 @@
-# ecv-git-learning
+# Introduction
 
+A slide to learn more about git via spectable
 Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
 
-## Running your presentation
+## Installation
 
-- Run `yarn install` (or `npm install` or `pnpm install`) to install dependencies.
-- Run `yarn start` (or `npm start` or `pnpm start`) to start the presentation.
-- Edit `index.tsx to add your presentation content.
+To run the project :
 
-## Building you presentation
+Use the package manager [npm](https://www.npmjs.com/) to run the project locally: 
 
-To build your presentation for a production deploy, run `yarn build` (or `npm build` or `pnpm build`).
+```bash
+npm start
+```
 
-The build artifacts will be placed in the `dist` directory. If you'd like to change this location, edit `output.path` in `webpack.config.js`.
+to build it staticly: 
+
+```bash
+npm build
+```
+
+## On the internet
+
+Check out on the web [here](https://ecv-git-learning-thibaut-dusautoirs-projects.vercel.app/?slideIndex=0&stepIndex=0)
