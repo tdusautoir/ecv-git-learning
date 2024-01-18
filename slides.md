@@ -176,5 +176,14 @@ Code
 ` ` `
 ```
 
+---
+# Extras
+
+Extra : to add link 
+
+```
+[link](url)
+```
+
 --- { "layout" : "center" }
 # Thanks for reading !
