@@ -4,6 +4,10 @@ A slide to learn more about git via spectable
 
 Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
 
+## State of progress
+
+103.1.1
+
 ## Installation
 
 To run the project :
