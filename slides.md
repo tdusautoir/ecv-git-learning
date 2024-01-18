@@ -27,3 +27,6 @@
 
 ---
 - Pushing changes to remote
+
+---
+- Pulling changes from remote
