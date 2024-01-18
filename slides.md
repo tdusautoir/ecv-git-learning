@@ -148,5 +148,33 @@ to add images :
 
 ![Image](https://symbols.getvecta.com/stencil_27/119_visual-studio-team-services-git-repository.cef4b0cc6c.png)
 
+---
+# Headers & Quotes
+
+to add header & quotes : 
+> “Music expresses that which cannot be put into words and that which cannot remain silent”
+
+``` 
+# Heading level 1
+## Heading level 2
+### Heading level 3
+#### Heading level 4
+##### Heading level 5
+###### Heading level 6
+
+> Quote
+```
+
+--- 
+# Code
+
+to add code :
+
+```
+` ` `
+Code
+` ` `
+```
+
 --- { "layout" : "center" }
 # Thanks for reading !
