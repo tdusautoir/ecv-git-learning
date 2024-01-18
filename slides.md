@@ -137,5 +137,16 @@ list :
 - text2
 ```
 
+---
+# Images
+
+to add images : 
+
+```
+![Image](link)
+```
+
+![Image](https://symbols.getvecta.com/stencil_27/119_visual-studio-team-services-git-repository.cef4b0cc6c.png)
+
 --- { "layout" : "center" }
 # Thanks for reading !
