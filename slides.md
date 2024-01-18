@@ -6,3 +6,6 @@
 
 ---
 - How to initialise a new repository
+
+---
+- How to review changes
