@@ -113,3 +113,6 @@ git pull origin branch_name
 ```
 
 This fetches changes from the remote repository and merges them into your current branch.
+
+--- { "layout" : "center" }
+# Thanks for reading !
