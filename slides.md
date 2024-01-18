@@ -21,3 +21,6 @@
 
 ---
 - Merge branch on main
+
+---
+- Delete a branch
