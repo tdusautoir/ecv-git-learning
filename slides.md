@@ -124,5 +124,18 @@ We will see now how to write some content with Markdown
 
 to add text simply write text in .md file as simple as that
 
+---
+# Lists
+
+to add lists : 
+
+- Like that
+
+```
+list : 
+- text2
+- text2
+```
+
 --- { "layout" : "center" }
 # Thanks for reading !
