@@ -114,5 +114,15 @@ git pull origin branch_name
 
 This fetches changes from the remote repository and merges them into your current branch.
 
+---
+# Markdown
+
+We will see now how to write some content with Markdown
+
+---
+# Text
+
+to add text simply write text in .md file as simple as that
+
 --- { "layout" : "center" }
 # Thanks for reading !
