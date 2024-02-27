@@ -200,3 +200,11 @@ git cherry-pick YOURSHA1
 
 --- { "layout" : "center" }
 # Thanks for reading !
+
+---
+
+## Thibaut DUSAUTOIR
+
+![](https://raw.githubusercontent.com/flexbox/github-bootcamp/main/slides/github-bootcamp.png)
+
+---
