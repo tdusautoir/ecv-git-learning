@@ -8,7 +8,7 @@ const Presentation = () => {
     colors: {
       primary: '#ffffff',
       secondary: '#4c90df',
-      tertiary: '#051730',
+      tertiary: '#ffffff',
       quaternary: '#4c90df',
       quinary: '#000'
     },
@@ -18,7 +18,7 @@ const Presentation = () => {
     <Deck template={() => <DefaultTemplate />} theme={theme}>
       <MarkdownSlideSet>{mdContent}</MarkdownSlideSet>
     </Deck>
-  )  
+  )
 };
 
 createRoot(document.getElementById('app')!).render(<Presentation />);
